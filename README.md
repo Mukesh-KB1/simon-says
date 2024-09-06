@@ -1,4 +1,3 @@
-#simon says game
 
 1. to start the game you have to press any key .
 2. After that a Autoflash will happen to one of those random 4 boxes.
