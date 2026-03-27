@@ -36,12 +36,6 @@ Test your memory by repeating the sequence of colors correctly!
 
 ---
 
-## 📸 Screenshots
-
-/play.png
-
----
-
 ## 📚 What I Learned
 
 - DOM manipulation in JavaScript
