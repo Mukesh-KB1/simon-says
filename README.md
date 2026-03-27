@@ -6,7 +6,7 @@ Test your memory by repeating the sequence of colors correctly!
 ---
 
 ## 🚀 Live Demo
-👉 simon-says-challenge4u.netlify.app
+👉 https://simon-says-challenge4u.netlify.app/
 
 ---
 
